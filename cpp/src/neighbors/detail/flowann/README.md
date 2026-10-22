@@ -1,5 +1,5 @@
 # FlowANN integration
 
-This stage supports search on a populated graph. The search tests construct small graphs directly; index construction is introduced in step 3.
+This stage supports graph conversion and integrated index construction through the internal experimental FlowANN interface. Public tiered CAGRA entry points are introduced in step 4.
 
 FlowANN is described in "Disentangling Graph Dependencies for Efficient Billion-Scale GPU Vector Search" (OSDI 2026).
